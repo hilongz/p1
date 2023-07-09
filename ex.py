@@ -11,4 +11,5 @@ corolla["Age"] = age
 
 corolla[["Age", "Mile", "Price"]].describe()
 
+corolla.head(5)
 
